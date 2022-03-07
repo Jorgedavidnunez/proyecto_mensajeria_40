@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Luis Fernando Paxel/AndroidStudioProjects/ProyectoMensajeriaProgra/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.129" />
+        <entry key="..\:/Users/Luis Fernando Paxel/AndroidStudioProjects/ProyectoMensajeriaProgra/app/src/main/res/drawable/buttons.xml" value="0.129" />
+        <entry key="..\:/Users/Luis Fernando Paxel/AndroidStudioProjects/ProyectoMensajeriaProgra/app/src/main/res/layout/activity_find_friends.xml" value="0.25" />
+        <entry key="..\:/Users/Luis Fernando Paxel/AndroidStudioProjects/ProyectoMensajeriaProgra/app/src/main/res/layout/activity_group_chat.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/Luis Fernando Paxel/AndroidStudioProjects/ProyectoMensajeriaProgra/app/src/main/res/layout/activity_login.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/Luis Fernando Paxel/AndroidStudioProjects/ProyectoMensajeriaProgra/app/src/main/res/layout/activity_main.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/Luis Fernando Paxel/AndroidStudioProjects/ProyectoMensajeriaProgra/app/src/main/res/layout/activity_phone_login.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/Luis Fernando Paxel/AndroidStudioProjects/ProyectoMensajeriaProgra/app/src/main/res/layout/activity_profile.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/Luis Fernando Paxel/AndroidStudioProjects/ProyectoMensajeriaProgra/app/src/main/res/layout/activity_settings.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/Luis Fernando Paxel/AndroidStudioProjects/ProyectoMensajeriaProgra/app/src/main/res/layout/fragment_chats.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/Luis Fernando Paxel/AndroidStudioProjects/ProyectoMensajeriaProgra/app/src/main/res/layout/fragment_groups.xml" value="0.25" />
+        <entry key="..\:/Users/Luis Fernando Paxel/AndroidStudioProjects/ProyectoMensajeriaProgra/app/src/main/res/layout/users_display_layout.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/Luis Fernando Paxel/AndroidStudioProjects/ProyectoMensajeriaProgra/app/src/main/res/menu/options_menu.xml" value="0.17760416666666667" />
+        <entry key="..\:/david/Documents/UNIVERSIDAD/Quinto_Semestre/Programacion_III/Semana_3_(14-02_AL_18-02)/Proyecto_Mensajeria/FirebaseMessage-main/ProyectoMensajeriaProgra/app/src/main/res/layout/activity_group_chat.xml" value="0.11503623188405797" />
+        <entry key="..\:/david/Documents/UNIVERSIDAD/Quinto_Semestre/Programacion_III/Semana_3_(14-02_AL_18-02)/Proyecto_Mensajeria/FirebaseMessage-main/ProyectoMensajeriaProgra/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/david/Documents/UNIVERSIDAD/Quinto_Semestre/Programacion_III/Semana_3_(14-02_AL_18-02)/Proyecto_Mensajeria/FirebaseMessage-main/ProyectoMensajeriaProgra/app/src/main/res/layout/fragment_contacts.xml" value="0.11503623188405797" />
+        <entry key="..\:/david/Documents/UNIVERSIDAD/Quinto_Semestre/Programacion_III/Semana_3_(14-02_AL_18-02)/Proyecto_Mensajeria/FirebaseMessage-main/ProyectoMensajeriaProgra/app/src/main/res/layout/fragment_requests.xml" value="0.22" />
+        <entry key="..\:/david/Documents/UNIVERSIDAD/Quinto_Semestre/Programacion_III/Semana_3_(14-02_AL_18-02)/Proyecto_Mensajeria/FirebaseMessage-main/ProyectoMensajeriaProgra/app/src/main/res/layout/users_display_layout.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
